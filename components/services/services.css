@@ -1,0 +1,32 @@
+.Services{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+    
+  }
+  .Services h3{
+    color:white;
+    font-family: 'Space Mono', monospace;
+    margin:30px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .Services p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  .Services img{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+    padding: 0;
+    margin-left:127px;
+    margin-right: 30px;
+    width: 80px;
+    height: 80px;
+  }
